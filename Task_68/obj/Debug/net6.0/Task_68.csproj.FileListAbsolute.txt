@@ -1,0 +1,15 @@
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\bin\Debug\net6.0\Task_68.exe
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\bin\Debug\net6.0\Task_68.deps.json
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\bin\Debug\net6.0\Task_68.runtimeconfig.json
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\bin\Debug\net6.0\Task_68.dll
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\bin\Debug\net6.0\Task_68.pdb
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.csproj.AssemblyReference.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfoInputs.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfo.cs
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.dll
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\refint\Task_68.dll
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.pdb
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\Task_68.genruntimeconfig.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\9_S_HW9\Task_68\obj\Debug\net6.0\ref\Task_68.dll
